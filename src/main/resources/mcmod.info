@@ -1,0 +1,16 @@
+[
+{
+  "modid": "testmod",
+  "name": "Test Mod",
+  "description": "A mod that tests most of the features of forge.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["nerd0101"],
+  "credits": "nerd0101",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
